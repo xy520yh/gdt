@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Lobster Two';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lobster Two Bold Italic'), local('LobsterTwo-BoldItalic'), url(img/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-iew.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lobster Two Bold'), local('LobsterTwo-Bold'), url(img/BngRUXZGTXPUvIoyV6yN5-92w7CGwRg.ttf) format('truetype');
+}
